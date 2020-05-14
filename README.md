@@ -3,7 +3,9 @@ Implementar un API que represente una ruleta de apuestas online utilizando las r
 
 # Consideraciones
 Framework de desarrollo: Spring Boot
-Base de datos: Redis
+
+Base de datos: Redis (el servidor no esta embebido en la aplicacion)
+
 Documentacion de la Api con Swagger:http://localhost:8080/swagger-ui.html
 
 
