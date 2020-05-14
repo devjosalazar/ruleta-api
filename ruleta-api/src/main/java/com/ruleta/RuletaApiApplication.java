@@ -11,4 +11,5 @@ public class RuletaApiApplication {
 		SpringApplication.run(RuletaApiApplication.class, args);
 	}
 
+	
 }
