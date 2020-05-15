@@ -16,6 +16,9 @@ Documentacion de la Api con Swagger:http://localhost:8080/swagger-ui.html
   <img src="https://github.com/oscarsalazar8913/ruleta-api/blob/master/imagenes/7.%20ruletaApiDocumentacion.jpg">
 </p>
 
+A continuacion se muestran los endpoints solicitados desarrollados de acuerdo a las especificaciones de la prueba. Se utilizo Postman
+para visualizar y probar los endpoints.
+
 # Crear ruleta
 
 <p aling="center">
