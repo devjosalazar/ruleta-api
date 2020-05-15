@@ -1,4 +1,4 @@
-# ruleta-api
+# Ruleta-api
 Implementar un API que represente una ruleta de apuestas online utilizando las reglas de Clean Code
 
 # Consideraciones
