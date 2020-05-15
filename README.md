@@ -4,7 +4,7 @@ Implementar un API que represente una ruleta de apuestas online utilizando las r
 # Consideraciones
 Framework de desarrollo: Spring Boot
 
-Base de datos: Redis (el servidor no esta embebido en la aplicacion, se ejecuta el servidor de Redis por consola o con un ejecutable)
+Base de datos: Redis (el servidor no esta embebido en la aplicacion, se ejecuta el servidor de Redis por consola)
 
 <p aling="center">
   <img src="https://github.com/oscarsalazar8913/ruleta-api/blob/master/imagenes/8.%20ejecucionRedisServer.jpg">
