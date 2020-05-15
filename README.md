@@ -34,19 +34,21 @@ Una vez se tenga una ruleta creada, se realiza la apertura de la ruleta mandando
   <img src="https://github.com/oscarsalazar8913/ruleta-api/blob/master/imagenes/2.%20abrirRuleta.jpg">
 </p>
 
+
 # Realizar apuesta
-Sobre una ruleta que este abierta, se realizan las apuestas. Donde se envia como parametros la información de la apuesta a realizar.Se tienen las validaciones en caso de que la ruleta a la que se va a realizar la apuesta no exista o no este abierta, que el número de la apuesta no sea valido y el valor de la apuesta no este permitido.
+Sobre una ruleta que este abierta, se realizan las apuestas. Donde se envia como parametros la información de la apuesta a realizar. Se notifica en caso de que la ruleta sobre la que se realiza la apuesta no exista o no este abierta, que el número de la apuesta no sea valido y el valor de la apuesta no este permitido.
 <p aling="center">
   <img src="https://github.com/oscarsalazar8913/ruleta-api/blob/master/imagenes/3.%20realizarApuesta.jpg">
 </p>
 
-Luego de realizar la apuesta podemos ver la ruleta con la apuesta realizada:
+Luego de realizar la apuesta se puede ver la ruleta con la apuestas realizadas:
 <p aling="center">
   <img src="https://github.com/oscarsalazar8913/ruleta-api/blob/master/imagenes/4.%20ruletaConApuestaRealizadas.jpg">
 </p>
 
+
 # Cerrar apuestas
-El cierre de las apuestas se hace sobre una ruleta de acuerdo a su Id.Cuendo se realiza el cierre de las apuesta sobre una ruleta, se retornan todas las apuesta realizadas sobre la ruleta que se esta cerrando.
+El cierre de las apuestas se hace sobre una ruleta de acuerdo a su Id. Cuando se realiza el cierre de las apuesta sobre una ruleta, se retornan todas las apuesta realizadas sobre dicha ruleta.
 <p aling="center">
   <img src="https://github.com/oscarsalazar8913/ruleta-api/blob/master/imagenes/5.%20cerrarApuestas.jpg">
 </p>
