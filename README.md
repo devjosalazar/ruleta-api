@@ -4,7 +4,7 @@ Implementar un API que represente una ruleta de apuestas online utilizando las r
 # Consideraciones
 Framework de desarrollo: Spring Boot
 
-Base de datos: Redis (el servidor no esta embebido en la aplicacion)
+Base de datos: Redis (el servidor no esta embebido en la aplicacion, se ejecuta el servidor de Redis por consola o con un ejecutable)
 
 <p aling="center">
   <img src="https://github.com/oscarsalazar8913/ruleta-api/blob/master/imagenes/8.%20ejecucionRedisServer.jpg">
@@ -16,7 +16,7 @@ Documentacion de la Api con Swagger:http://localhost:8080/swagger-ui.html
   <img src="https://github.com/oscarsalazar8913/ruleta-api/blob/master/imagenes/7.%20ruletaApiDocumentacion.jpg">
 </p>
 
-A continuacion se muestran los endpoints solicitados desarrollados de acuerdo a las especificaciones de la prueba. Se utilizo Postman
+A continuacion se muestran los endpoints desarrollados de acuerdo a las especificaciones de la prueba. Se utilizo Postman
 para visualizar y probar los endpoints.
 
 # Crear ruleta
@@ -37,13 +37,13 @@ para visualizar y probar los endpoints.
   <img src="https://github.com/oscarsalazar8913/ruleta-api/blob/master/imagenes/3.%20realizarApuesta.jpg">
 </p>
 
-Luego de realizar la apuesta podemos ver la ruleta con la apuesta realizada
+Luego de realizar la apuesta podemos ver la ruleta con la apuesta realizada:
 <p aling="center">
   <img src="https://github.com/oscarsalazar8913/ruleta-api/blob/master/imagenes/4.%20ruletaConApuestaRealizadas.jpg">
 </p>
 
 # Cerrar apuestas
-
+El cierre de las apuestas se hace sobre una ruleta de acuerdo a su Id.
 <p aling="center">
   <img src="https://github.com/oscarsalazar8913/ruleta-api/blob/master/imagenes/5.%20cerrarApuestas.jpg">
 </p>
