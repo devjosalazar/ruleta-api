@@ -12,28 +12,39 @@ Base de datos: Redis (el servidor no esta embebido en la aplicacion)
 
 Documentacion de la Api con Swagger:http://localhost:8080/swagger-ui.html
 https://github.com/oscarsalazar8913/ruleta-api/blob/master/imagenes/7.%20ruletaApiDocumentacion.jpg
-
+<p aling="center">
+  <img src="https://github.com/oscarsalazar8913/ruleta-api/blob/master/imagenes/8.%20ejecucionRedisServer.jpg">
+</p>
 # Crear ruleta
 
-https://github.com/oscarsalazar8913/ruleta-api/blob/master/imagenes/1.%20crearRuleta.jpg
-
+<p aling="center">
+  <img src="https://github.com/oscarsalazar8913/ruleta-api/blob/master/imagenes/1.%20crearRuleta.jpg">
+</p>
 # Abrir ruleta
 
-https://github.com/oscarsalazar8913/ruleta-api/blob/master/imagenes/2.%20abrirRuleta.jpg
-
+<p aling="center">
+  <img src="https://github.com/oscarsalazar8913/ruleta-api/blob/master/imagenes/2.%20abrirRuleta.jpg">
+</p>
 
 # Realizar apuesta
-https://github.com/oscarsalazar8913/ruleta-api/blob/master/imagenes/3.%20realizarApuesta.jpg
+
+<p aling="center">
+  <img src="https://github.com/oscarsalazar8913/ruleta-api/blob/master/imagenes/3.%20realizarApuesta.jpg">
+</p>
 
 Luego de realizar la apuesta podemos ver la ruleta con la apuesta realizada
-https://github.com/oscarsalazar8913/ruleta-api/blob/master/imagenes/4.%20ruletaConApuestaRealizadas.jpg
-
+<p aling="center">
+  <img src="https://github.com/oscarsalazar8913/ruleta-api/blob/master/imagenes/4.%20ruletaConApuestaRealizadas.jpg">
+</p>
 
 # Cerrar apuestas
 
-https://github.com/oscarsalazar8913/ruleta-api/blob/master/imagenes/5.%20cerrarApuestas.jpg
-
+<p aling="center">
+  <img src="https://github.com/oscarsalazar8913/ruleta-api/blob/master/imagenes/5.%20cerrarApuestas.jpg">
+</p>
 
 # Retornar ruletas
 
-https://github.com/oscarsalazar8913/ruleta-api/blob/master/imagenes/6.%20ruletasConEstado.jpg
+<p aling="center">
+  <img src="https://github.com/oscarsalazar8913/ruleta-api/blob/master/imagenes/6.%20ruletasConEstado.jpg">
+</p>
