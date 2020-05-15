@@ -23,7 +23,7 @@ para visualizar y probar los endpoints.
 
 # Crear ruleta
 
-<p aling="center">
+<p aling="center" border="solid 1px">
   <img src="https://github.com/oscarsalazar8913/ruleta-api/blob/master/imagenes/1.%20crearRuleta.jpg">
 </p>
 
