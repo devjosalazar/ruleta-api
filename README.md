@@ -11,15 +11,17 @@ Base de datos: Redis (el servidor no esta embebido en la aplicacion)
 </p>
 
 Documentacion de la Api con Swagger:http://localhost:8080/swagger-ui.html
-https://github.com/oscarsalazar8913/ruleta-api/blob/master/imagenes/7.%20ruletaApiDocumentacion.jpg
+
 <p aling="center">
-  <img src="https://github.com/oscarsalazar8913/ruleta-api/blob/master/imagenes/8.%20ejecucionRedisServer.jpg">
+  <img src="https://github.com/oscarsalazar8913/ruleta-api/blob/master/imagenes/7.%20ruletaApiDocumentacion.jpg">
 </p>
+
 # Crear ruleta
 
 <p aling="center">
   <img src="https://github.com/oscarsalazar8913/ruleta-api/blob/master/imagenes/1.%20crearRuleta.jpg">
 </p>
+
 # Abrir ruleta
 
 <p aling="center">
