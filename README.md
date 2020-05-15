@@ -14,7 +14,7 @@ Base de datos: Redis (el servidor no esta embebido en la aplicacion, se ejecuta 
 # Documentacion de la Api con Swagger
 http://localhost:8080/swagger-ui.html
 
-<p aling="center">
+<p aling="center" border="solid 1px">
   <img src="https://github.com/oscarsalazar8913/ruleta-api/blob/master/imagenes/7.%20ruletaApiDocumentacion.jpg">
 </p>
 
